@@ -14,7 +14,7 @@ It is a deep learning model trained with Keras and the TensorFlow framework on t
 * Apply data augmentation (flipping left, right, horizontally, and vertically) for performance improvement and robustness.
 
 ## Model Training & Evaluation
-* Use python libraries such as TensorFlow, Keras, Pandas, numpy, and the like
+* Use python libraries such as TensorFlow, Keras, numpy, and MatplotLib.
 * Use a Convolutional Neural Network (CNNs) model, Xception trained on ImageNet.
 * Evaluate accuracy, precision, recall, and F1-score.
 

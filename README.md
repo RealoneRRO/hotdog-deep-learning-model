@@ -39,12 +39,12 @@ Techniques for Image processing, data augmentation, and model improvement were u
 * Using TensorFlow Lite to deploy on web/mobile devices
 
 # Installation
-Python (3.8 or later)
-Pip (Python package manager)
-Git (to clone the repository)
-FlaskAPI (Running Locally)
-Streamlit(Using Web Apps)
-Docker (if you want to run it in a container)
+* Python (3.8 or later)
+* Pip (Python package manager)
+* Git (to clone the repository)
+* FlaskAPI (Running Locally)
+*Streamlit(Using Web Apps)
+*Docker (if you want to run it in a container)
 
 
 

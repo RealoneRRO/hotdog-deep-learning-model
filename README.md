@@ -43,8 +43,8 @@ Techniques for Image processing, data augmentation, and model improvement were u
 * Pip (Python package manager)
 * Git (to clone the repository)
 * FlaskAPI (Running Locally)
-*Streamlit(Using Web Apps)
-*Docker (if you want to run it in a container)
+* Streamlit(Using Web Apps)
+* Docker (if you want to run it in a container)
 
 
 

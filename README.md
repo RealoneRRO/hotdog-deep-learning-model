@@ -33,7 +33,7 @@ The Final Technique is Data Augmentation, This is a very small dataset for the m
 # Conclusion
 In real-world image classification tasks, the Hot Dog Classifier showcases the effectiveness of machine learning and deep learning.  The model can reliably differentiate between "hot dog" and "not hot dog" images by utilizing Convolutional Neural Networks (CNNs) and Transfer Learning.
 
-Techniques for Image processing, data augmentation, and model improvement were used to improve performance and make sure the classifier performs well when applied to unseen images. The finished models were made available in the directory of the code with an accuracy score of 91.9%, 93.1%, and 93.6% respectively. This project demonstrates important methods in computer vision, deep learning, and model deployment while showcasing how AI may be used in entertaining yet useful contexts.  Future enhancements might involve: 
+Techniques for Image processing, data augmentation, and model improvement were used to improve performance and make sure the classifier performs well when applied to unseen images. The finished models were made available in the directory of the code with an accuracy score of 91.9%, 93.1%, and 93.6%, respectively. This project demonstrates important methods in computer vision, deep learning, and model deployment while showcasing how AI may be used in entertaining yet useful contexts.  Future enhancements might involve: 
 * Increasing the dataset's size for improved generalization 
 * Improving inference speed for real-time applications and third party integration  
 * Using TensorFlow Lite to deploy on web/mobile devices
@@ -45,6 +45,10 @@ Techniques for Image processing, data augmentation, and model improvement were u
 * FlaskAPI (Running Locally)
 * Streamlit(Using Web Apps)
 * Docker (if you want to run it in a container)
+
+* Check out the article on this project at
+
+https://medium.com/@sashefrro/meal-classification-model-using-deep-learning-c11336d0cfc9
 
 
 

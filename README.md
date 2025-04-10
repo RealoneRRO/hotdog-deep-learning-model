@@ -46,7 +46,7 @@ Techniques for Image processing, data augmentation, and model improvement were u
 * Streamlit(Using Web Apps)
 * Docker (if you want to run it in a container)
 
-* Check out the article on this project at
+Check out the article on this project at
 
 https://medium.com/@sashefrro/meal-classification-model-using-deep-learning-c11336d0cfc9
 
